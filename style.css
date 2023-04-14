@@ -1,0 +1,72 @@
+body{
+    /*background-color: rgb(255, 255, 255);*/
+    background-image: url(White-Abstract-Computer-Wallpaper.jpg);
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    border-radius: 50%;
+    
+}
+
+h1{
+    color:  rgb(118, 61, 242);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 70px;
+    margin: 0 50px;
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.circle{
+    color: white;
+    border-radius: 50%;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    border: none;
+    background-color: #7c40ff;
+    width: 120px;
+    height: 120px;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor:pointer;
+
+
+}
+
+.circle:hover{
+    background-color: #bb4fff;
+
+}
+
+.square{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    width: 90px;
+    height: 60px;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: pointer;
+    overflow: hidden;
+    background-color: #7c40ff;
+    color:white;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    align-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.square:hover{
+    background-color: #bb4fff;
+
+}
+
+#root{
+    color:black;
+    font-size: 100px;
+    font-family: 'Orbitron', sans-serif;
+ 
+}

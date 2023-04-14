@@ -1,2 +1,2 @@
-# CountMate.github.io
-A counter
+# CountMate
+ A counter
